@@ -1,0 +1,4 @@
+Fabric>=1.1.1
+jinja2
+slimit
+watchdog
